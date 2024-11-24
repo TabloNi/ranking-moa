@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name": "dashtail",
+    "image": "/images/avatar/avatar-3.jpg",
+    "password": "password",
+    "email": "dashtail@codeshaper.net",
+    "resetToken": null,
+    "resetTokenExpiry": null,
+    "profile": null
+  },
+  {
+    "id": 2,
+    "name": "Changhyun Nam",
+    "email": "namu@namu.com",
+    "password": "namu",
+    "image": "/images/avatar/avatar-3.jpg",
+    "resetToken": null,
+    "resetTokenExpiry": null,
+    "profile": null
+  }
+]
